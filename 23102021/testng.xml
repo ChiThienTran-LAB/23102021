@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite TCs">
+<listeners>
+<listener class-name="baitap.ListenerTest"/>
+</listeners>
+<test name="Test All">
+	<classes>
+		<class name="baitap.check_test"></class>
+		<class name="baitap.check_dangky"></class>
+	</classes>
+</test>
+</suite>

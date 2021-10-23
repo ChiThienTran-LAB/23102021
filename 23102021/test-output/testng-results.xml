@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="12" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-23T10:52:05 ICT" name="Suite TCs" finished-at="2021-10-23T10:52:21 ICT" duration-ms="16071">
+    <groups>
+    </groups>
+    <test started-at="2021-10-23T10:52:05 ICT" name="Test All" finished-at="2021-10-23T10:52:21 ICT" duration-ms="16071">
+      <class name="baitap.check_dangky">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:09 ICT" name="open_browser" finished-at="2021-10-23T10:52:13 ICT" duration-ms="3474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="dangky()[pri:0, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:16 ICT" name="dangky" finished-at="2021-10-23T10:52:17 ICT" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dangky -->
+        <test-method signature="thongtin()[pri:1, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:17 ICT" name="thongtin" finished-at="2021-10-23T10:52:17 ICT" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thongtin -->
+        <test-method signature="mailling()[pri:2, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:17 ICT" name="mailling" finished-at="2021-10-23T10:52:18 ICT" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailling -->
+        <test-method signature="user_information()[pri:3, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:18 ICT" name="user_information" finished-at="2021-10-23T10:52:18 ICT" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_information -->
+        <test-method signature="submit_inf()[pri:4, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:18 ICT" name="submit_inf" finished-at="2021-10-23T10:52:19 ICT" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit_inf -->
+        <test-method signature="back_login()[pri:5, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:19 ICT" name="back_login" finished-at="2021-10-23T10:52:20 ICT" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- back_login -->
+        <test-method signature="dangnhap()[pri:6, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:20 ICT" name="dangnhap" finished-at="2021-10-23T10:52:21 ICT" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dangnhap -->
+        <test-method signature="verify_check_login()[pri:7, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:21 ICT" name="verify_check_login" finished-at="2021-10-23T10:52:21 ICT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_check_login -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:baitap.check_dangky@76908cc0]" started-at="2021-10-23T10:52:21 ICT" name="close_browser" finished-at="2021-10-23T10:52:21 ICT" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- baitap.check_dangky -->
+      <class name="baitap.check_test">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:05 ICT" name="open_browser" finished-at="2021-10-23T10:52:09 ICT" duration-ms="3792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method is-config="true" signature="verify_homepage()[pri:0, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:13 ICT" name="verify_homepage" finished-at="2021-10-23T10:52:13 ICT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_homepage -->
+        <test-method signature="v_rfgis()[pri:1, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:13 ICT" name="v_rfgis" finished-at="2021-10-23T10:52:14 ICT" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- v_rfgis -->
+        <test-method is-config="true" signature="back_homepage_2()[pri:0, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:14 ICT" name="back_homepage_2" finished-at="2021-10-23T10:52:15 ICT" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- back_homepage_2 -->
+        <test-method is-config="true" signature="verify_homepage()[pri:0, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:15 ICT" name="verify_homepage" finished-at="2021-10-23T10:52:15 ICT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_homepage -->
+        <test-method signature="click_support()[pri:2, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:15 ICT" name="click_support" finished-at="2021-10-23T10:52:15 ICT" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_support -->
+        <test-method is-config="true" signature="back_homepage_2()[pri:0, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:15 ICT" name="back_homepage_2" finished-at="2021-10-23T10:52:16 ICT" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- back_homepage_2 -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:baitap.check_test@5be6e01c]" started-at="2021-10-23T10:52:21 ICT" name="close_browser" finished-at="2021-10-23T10:52:21 ICT" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- baitap.check_test -->
+    </test> <!-- Test All -->
+  </suite> <!-- Suite TCs -->
+</testng-results>
